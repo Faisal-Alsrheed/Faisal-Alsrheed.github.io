@@ -1,15 +1,16 @@
-/* Apply a black background to the entire page */
+/* Basic background and text colors */
 body {
-    background-color: black;
-    color: white; /* Ensures text is readable against the black background */
-    font-family: 'Courier New', Courier, monospace; /* Monospaced font for code-like appearance */
+    background-color: #1e1e1e; /* Dark gray background */
+    color: #d4d4d4; /* Light gray text */
+    font-family: 'Consolas', 'Courier New', monospace; /* Monospaced font for code-like appearance */
     margin: 0;
     padding: 20px;
 }
 
-/* Style for headers */
+/* Style for headers, using brighter colors for visibility */
 h1, h2 {
-    border-bottom: 1px solid gray; /* Adds a subtle line under headers */
+    border-bottom: 1px solid #cccccc;
+    color: #569cd6; /* Soft blue, commonly used for syntax highlighting */
 }
 
 /* Navigation styling */
@@ -18,33 +19,35 @@ nav {
 }
 
 nav ul {
-    list-style-type: none; /* Removes bullet points from the list */
+    list-style-type: none;
     padding: 0;
 }
 
 nav ul li {
-    display: inline; /* Displays links in a row */
+    display: inline;
     margin-right: 10px;
 }
 
 a {
-    color: #55aaff; /* Light blue color for links */
-    text-decoration: none; /* No underline */
+    color: #9cdcfe; /* Light blue, for links */
+    text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline; /* Underline on hover for better usability */
+    text-decoration: underline;
+    color: #4fa2ff; /* Change color on hover for better interactivity */
 }
 
 /* Section styling */
 section {
     margin-bottom: 20px;
+    border-left: 3px solid #569cd6; /* Add a blue left border to sections */
+    padding-left: 15px;
 }
 
 /* Footer styling */
 footer {
     text-align: center;
     margin-top: 20px;
-    color: gray; /* Light gray color for the footer text */
+    color: #858585; /* Dim gray for less focus */
 }
-
