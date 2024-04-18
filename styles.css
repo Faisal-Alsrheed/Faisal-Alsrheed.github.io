@@ -8,8 +8,19 @@ body {
 }
 
 /* Style for headers, using brighter colors for visibility */
-h1, h2 {
+h1, h2, h3 {
     border-bottom: 1px solid #cccccc;
+}
+
+h1 {
+    color: #569cd6; /* Soft blue, commonly used for syntax highlighting */
+}
+
+h2 {
+    color: #569cd6; /* Soft blue, commonly used for syntax highlighting */
+}
+
+h3 {
     color: #569cd6; /* Soft blue, commonly used for syntax highlighting */
 }
 
