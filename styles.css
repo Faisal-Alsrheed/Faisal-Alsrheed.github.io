@@ -1,27 +1,56 @@
 /* Basic background and text colors */
 body {
-    background-color: #1e1e1e; /* Dark gray background */
+    background: linear-gradient(135deg, #1e1e1e 0%, #2d2d30 100%); /* Subtle gradient background */
     color: #d4d4d4; /* Light gray text */
-    font-family: 'Consolas', 'Courier New', monospace; /* Monospaced font for code-like appearance */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern font stack */
     margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Container for better content width */
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
     padding: 20px;
+}
+
+/* Header styling */
+header {
+    background: rgba(22, 22, 22, 0.9);
+    backdrop-filter: blur(10px);
+    border-bottom: 2px solid #569cd6;
+    margin-bottom: 30px;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0 0 20px 0;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 300;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 /* Style for headers, using brighter colors for visibility */
 h1, h2, h3 {
-    border-bottom: 1px solid #cccccc;
+    border-bottom: 2px solid rgba(204, 204, 204, 0.3);
+    padding-bottom: 8px;
 }
 
 h1 {
     color: #569cd6; /* Soft blue, commonly used for syntax highlighting */
+    font-weight: 300;
 }
 
 h2 {
     color: #569cd6; /* Soft blue, commonly used for syntax highlighting */
+    font-weight: 400;
 }
 
 h3 {
     color: #569cd6; /* Soft blue, commonly used for syntax highlighting */
+    font-weight: 500;
 }
 
 /* Navigation styling */
@@ -32,33 +61,147 @@ nav {
 nav ul {
     list-style-type: none;
     padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
 nav ul li {
-    display: inline;
-    margin-right: 10px;
+    margin: 0;
+}
+
+nav ul li a {
+    background: rgba(86, 156, 214, 0.1);
+    border: 1px solid #569cd6;
+    border-radius: 25px;
+    padding: 8px 16px;
+    transition: all 0.3s ease;
+    display: inline-block;
+    font-weight: 500;
+}
+
+nav ul li a:hover {
+    background: rgba(86, 156, 214, 0.2);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(86, 156, 214, 0.3);
 }
 
 a {
     color: #9cdcfe; /* Light blue, for links */
     text-decoration: none;
+    transition: all 0.3s ease;
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color: #4fa2ff; /* Change color on hover for better interactivity */
+    text-shadow: 0 0 5px rgba(79, 162, 255, 0.5);
 }
 
 /* Section styling */
 section {
-    margin-bottom: 20px;
-    border-left: 3px solid #569cd6; /* Add a blue left border to sections */
-    padding-left: 15px;
+    background: rgba(42, 42, 42, 0.6);
+    margin-bottom: 25px;
+    border-left: 4px solid #569cd6;
+    border-radius: 8px;
+    padding: 25px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+section:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+section h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.4em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+section h3::before {
+    content: "▸";
+    color: #569cd6;
+    font-size: 1.2em;
+}
+
+section p {
+    margin-bottom: 15px;
+    font-size: 1.1em;
+}
+
+section ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+section ul li {
+    margin-bottom: 8px;
+    font-size: 1.05em;
 }
 
 /* Footer styling */
 footer {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 40px;
+    padding: 20px 0;
     color: #858585; /* Dim gray for less focus */
+    border-top: 1px solid rgba(204, 204, 204, 0.2);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+    
+    header h1 {
+        font-size: 2em;
+    }
+    
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+    
+    section {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    
+    section h3 {
+        font-size: 1.2em;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 10px;
+    }
+    
+    header h1 {
+        font-size: 1.8em;
+    }
+    
+    section {
+        padding: 15px;
+    }
+}
+
+/* Smooth scrolling for navigation */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Strong text styling */
+strong {
+    color: #ffd700;
+    font-weight: 600;
 }
