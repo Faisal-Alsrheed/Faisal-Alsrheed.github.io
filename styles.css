@@ -1,3 +1,17 @@
+/* Experience description styling for separation */
+.exp-description {
+    display: block;
+    margin-top: 4px;
+    margin-left: 40px; /* further increased indentation */
+    color: #d4d4d4;
+    font-size: 0.98em;
+    font-weight: 400;
+}
+/* Custom color for company names in Experience section */
+.company-name {
+    color: #569cd6; /* Theme blue for consistency */
+    font-weight: 600;
+}
 /* Basic background and text colors */
 body {
     background: linear-gradient(135deg, #1e1e1e 0%, #2d2d30 100%); /* Subtle gradient background */
