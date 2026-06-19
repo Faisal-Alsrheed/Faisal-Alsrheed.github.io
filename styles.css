@@ -99,9 +99,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background: rgba(255, 255, 255, 0.1);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2), 0 0 5px rgba(86, 156, 214, 0.4);
+    transform: none;
 }
 
 a {
@@ -110,11 +108,7 @@ a {
     transition: all 0.3s ease;
 }
 
-a:hover {
-    text-decoration: none;
-    color: #4fa2ff; /* Change color on hover for better interactivity */
-    text-shadow: 0 0 5px rgba(79, 162, 255, 0.5);
-}
+
 
 /* Section styling */
 section {
@@ -131,8 +125,7 @@ section {
 }
 
 section:hover {
-    transform: translateY(-5px); /* More lift */
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4), 0 0 15px rgba(86, 156, 214, 0.5); /* Deeper shadow + futuristic glow */
+    transform: none;
 }
 
 section h3 {
@@ -185,9 +178,10 @@ footer {
     }
     
     nav ul {
-        flex-direction: column;
-        align-items: center;
-        gap: 10px;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 12px;
     }
     
     section {
@@ -197,6 +191,10 @@ footer {
     
     section h3 {
         font-size: 1.2em;
+    }
+    
+    .exp-description {
+        margin-left: 20px;
     }
 }
 
@@ -209,8 +207,23 @@ footer {
         font-size: 1.8em;
     }
     
+    nav ul {
+        gap: 8px;
+    }
+    nav ul li a {
+        padding: 6px 12px;
+        font-size: 0.9em;
+    }
+    
     section {
         padding: 15px;
+    }
+    
+    section ul {
+        padding-left: 15px;
+    }
+    .exp-description {
+        margin-left: 10px;
     }
 }
 
@@ -223,4 +236,22 @@ html {
 strong {
     color: #9cdcfe;
     font-weight: 600;
+}
+
+/* Hover media query to prevent sticky hovers on touch screens */
+@media (hover: hover) {
+    section:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4), 0 0 15px rgba(86, 156, 214, 0.5);
+    }
+    nav ul li a:hover {
+        background: rgba(255, 255, 255, 0.1);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2), 0 0 5px rgba(86, 156, 214, 0.4);
+    }
+    a:hover {
+        text-decoration: none;
+        color: #4fa2ff;
+        text-shadow: 0 0 5px rgba(79, 162, 255, 0.5);
+    }
 }
