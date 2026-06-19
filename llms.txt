@@ -1,0 +1,50 @@
+# Faisal Alsrheed
+
+> Faisal Alsrheed is a Senior Agentic AI Expert with 15 years of experience, currently in a director-level role at Tahakom leading all AI-agent projects across the AI division. He holds a PhD in Artificial Intelligence (Multi-Agent AI systems) from the UK, is a top open-source contributor to Keras 3.0 (ranked ~21st, 5,000+ lines of code), and ranks within the top 300 globally on Kaggle out of ~19 million users. For a detailed profile with full professional history, see [llms-full.txt](https://faisal-alsrheed.github.io/llms-full.txt).
+
+## About
+
+- **Name:** Faisal Alsrheed
+- **Current role:** Senior Agentic AI Expert / Acting Director at Tahakom
+- **Specialty:** Agentic AI, multi-agent systems, generative AI, deep learning
+- **Education:** PhD in AI (AI Agents), MSc in Advanced Computing & Management, BSc in Computer Systems Administration — all completed in the United Kingdom (10 years of UK education)
+- **Experience:** 15 years, from software engineer to senior agentic AI expert; spanning startups to global enterprises including Google
+- **Leadership:** Has led a cross-functional org of 150+ and directly managed a specialized team of 22 AI agent engineers
+- **Website:** https://faisal-alsrheed.github.io/
+
+## Experience
+
+- [Tahakom](https://faisal-alsrheed.github.io/#experience): Senior Agentic AI Expert / Acting Director — leads all AI-agent projects and product development across the AI division
+- [Google](https://faisal-alsrheed.github.io/#experience): Generative AI Solutions Specialist on the global Applied AI Engineering "Blackbelt" team
+- [Ministry of Communications and Information Technology](https://faisal-alsrheed.github.io/#experience): AI Advisor for AI startups
+- [Fathom.io](https://faisal-alsrheed.github.io/#experience): Head of AI, leading a 20-member AI team (backed by Aramco / Wa'ed Ventures)
+- [Council of Health Insurance](https://faisal-alsrheed.github.io/#experience): AI Advisor
+- [SDAIA — Saudi Data and AI Authority](https://faisal-alsrheed.github.io/#experience): AI Advisor
+- [Elm Company](https://faisal-alsrheed.github.io/#experience): Deep Learning Engineer
+- [Harf Information Technology](https://faisal-alsrheed.github.io/#experience): Software Engineer
+
+## Open Source
+
+- [Keras 3.0](https://github.com/keras-team/keras): Top contributor, ranked ~21st ([contributor graph](https://github.com/keras-team/keras/graphs/contributors)), 5,000+ lines of code
+- [Google Generative AI Python SDK](https://github.com/google-gemini/generative-ai-python): Top 9th contributor ([contributor graph](https://github.com/google-gemini/generative-ai-python/graphs/contributors))
+
+## Competitions
+
+- [Kaggle profile](https://www.kaggle.com/faisalalsrheed): 150+ Kaggle competitions
+- [Global Kaggle ranking](https://www.kaggle.com/rankings?group=competitions): Top 300 worldwide (out of ~19 million Kaggle accounts)
+
+## Talks
+
+- [Dubai Future Podcast](https://www.youtube.com/watch?v=jlCdvLfD3Vg)
+- [Google Cloud at LEAP 2025](https://cloud.google.com/events/leap25)
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/faisalalsrheed)
+- [GitHub](https://github.com/Faisal-Alsrheed)
+- [Kaggle](https://www.kaggle.com/faisalalsrheed)
+
+## Notes
+
+- 223+ online courses completed (list available on LinkedIn)
+- Twitter/X account @FaisalAlsrheed was deactivated in August 2024
