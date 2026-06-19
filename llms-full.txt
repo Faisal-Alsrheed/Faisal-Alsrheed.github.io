@@ -1,0 +1,71 @@
+# Faisal Alsrheed — Full Profile
+
+> Faisal Alsrheed is a Senior Agentic AI Expert with 15 years of experience, currently in a director-level role at Tahakom leading all AI-agent projects across the AI division. He holds a PhD in Artificial Intelligence (Multi-Agent AI systems) from the UK, is a top open-source contributor to Keras 3.0 (ranked ~21st, 5,000+ lines of code), and ranks within the top 300 globally on Kaggle out of ~19 million users. Website: https://faisal-alsrheed.github.io/
+
+## Executive Summary
+
+15 years' experience, starting as a software engineer and progressing to senior agentic AI expert; diverse background spanning startups to global enterprises such as Google; 10 years of UK education; PhD in AI (Multi-Agent AI systems); Master's in Management & Computing; proven hands-on AI expertise; demonstrated technical leadership (team of 22); open-source contributor (Keras 3.0 top contributor, ~21st, 5,000+ lines of code); 151+ AI competitions (top 300 globally); 223 online courses completed.
+
+## Experience (detailed)
+
+### Senior Agentic AI Expert / Acting Director — Tahakom
+As a Senior AI Expert in a director-level role reporting to the General Manager of AI, Faisal is responsible for leading all AI-agent-related projects and product development across the entire AI division. He oversees a cross-functional team of 150+ professionals spanning product management, backend, frontend, and infrastructure, while directly managing a specialized team of 22 AI agent engineers structured by domain expertise to ensure deep specialization across the agentic technology stack.
+
+### Generative AI Solutions Specialist — Google
+As a member of the global Applied AI Engineering team known as Blackbelt, Faisal specializes in strategic projects across Europe, the Middle East, Africa, and Asia-Pacific, collaborating daily with colleagues and the Applied AI Engineering leadership team in the United States. He has collaborated with customers and local Google teams across Japan, France, Qatar, the United Arab Emirates, India, Germany, and China.
+
+### Artificial Intelligence Advisor — Ministry of Communications and Information Technology
+Advisor for AI startups — providing strategic guidance, technical expertise in AI development and deployment, and supporting growth, innovation, and scalable solutions for early-stage ventures.
+
+### Head of Artificial Intelligence — Fathom.io
+Leading a 20-member AI team within a 70-employee startup. Backed by Aramco (Wa'ed Ventures).
+
+### Artificial Intelligence Advisor — Council of Health Insurance
+Advisor to the Director of AI, providing strategic and technical guidance on AI initiatives.
+
+### Artificial Intelligence Advisor — Saudi Data and Artificial Intelligence Authority (SDAIA)
+Advisor to the General Manager of Studies, providing strategic insights and guidance on AI projects.
+
+### Deep Learning Engineer — Elm Company
+Led a one-year project focused on developing a complex AI solution.
+
+### Software Engineer — Harf Information Technology
+Software Engineer working remotely, developing and maintaining software solutions.
+
+## Open Source Contributions
+
+- Keras 3.0 (multi-framework artificial neural networks): top contributor, ranked ~21st — https://github.com/keras-team/keras — contributor graph: https://github.com/keras-team/keras/graphs/contributors — 5,000+ lines of code.
+- Google Generative AI Python SDK: top 9th contributor — https://github.com/google-gemini/generative-ai-python — contributor graph: https://github.com/google-gemini/generative-ai-python/graphs/contributors
+
+## Kaggle Competitions
+
+- Participated in 150+ Kaggle competitions: https://www.kaggle.com/faisalalsrheed/competitions
+- Ranked within the top 300 globally on Kaggle: https://www.kaggle.com/rankings?group=competitions (there are ~19 million Kaggle user accounts).
+
+## Podcast and Talks
+
+- Dubai Future Podcast: https://www.youtube.com/watch?v=jlCdvLfD3Vg
+- Google Cloud at LEAP 2025: https://cloud.google.com/events/leap25
+
+## Education
+
+All higher education completed in the United Kingdom (10 years total):
+
+- PhD in Artificial Intelligence (AI Agents / Multi-Agent AI systems)
+- Master's Degree (MSc) in Advanced Computing and Management
+- Bachelor's Degree (BSc) in Computer Systems Administration
+
+## Online Courses
+
+223 online courses completed to date. The full list is available on LinkedIn.
+
+## Connect
+
+- Kaggle: https://www.kaggle.com/faisalalsrheed
+- LinkedIn: https://www.linkedin.com/in/faisalalsrheed
+- GitHub: https://github.com/Faisal-Alsrheed
+- Twitter/X: @FaisalAlsrheed was deactivated in August 2024.
+
+## Areas of Expertise
+
+Agentic AI, multi-agent systems, generative AI, large language models, deep learning, applied AI engineering, AI strategy and advisory, technical leadership, Keras, Kaggle competitions.
