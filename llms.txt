@@ -1,6 +1,6 @@
 # Faisal Alsrheed
 
-> Faisal Alsrheed is a Senior Agentic AI Expert with 15 years of experience, currently in a director-level role at Tahakom leading all AI-agent projects across the AI division. He holds a PhD in Artificial Intelligence (Multi-Agent AI systems) from the UK, is a top open-source contributor to Keras 3.0 (ranked ~21st, 5,000+ lines of code), and ranks within the top 300 globally on Kaggle out of ~19 million users.
+> Faisal Alsrheed is a Senior Agentic AI Expert with 15 years of experience, currently in a director-level role at Tahakom leading all AI-agent projects across the AI division. He holds a PhD in Artificial Intelligence (Multi-Agent AI systems) from the UK, is a top open-source contributor to Keras 3.0 (ranked ~21st, 5,000+ lines of code), and ranks within the top 300 globally on Kaggle out of ~19 million users. For a detailed profile with full professional history, see [llms-full.txt](https://faisal-alsrheed.github.io/llms-full.txt).
 
 ## About
 
